@@ -1,4 +1,15 @@
+```
+---
+title: 利用WinScp实现win10与Linux之间文件传输
+date: YYYY-MM-DD HH:MM:SS +/0800
+categories: [系统, Linux]
+tags: [Linux]     # TAG names should always be lowercase
+---
+```
+
 # 利用WinScp实现win10与Linux之间文件传输
+
+
 
 ##### 1、下载并安装好WinScp工具
 
